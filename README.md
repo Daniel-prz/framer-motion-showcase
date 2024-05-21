@@ -1,4 +1,8 @@
 ## framer motion showcase
 
-this is a next application of three images using framer motion for transition
-Each Image is in its own component file, which is imported to the page
+this is a next application of three images
+Downloaded framer-motion
+Used motion.div to wrap Images
+Used whileHover to make Image grow
+use transition to make it grow and shrink smoothly  
+Imported each image to the page.
